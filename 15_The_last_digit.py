@@ -14,3 +14,4 @@ for _ in range(int(input())):
 			rem = b % 4
 		ans = pow(a, rem, 1000000007)
 		print(ans % 10)
+
