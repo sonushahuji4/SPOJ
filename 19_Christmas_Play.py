@@ -1,5 +1,5 @@
 # Problem Statement Link : https://www.spoj.com/problems/AMR10G/
-
+# http://coderpoem.blogspot.com/2015/11/spoj-solution-amr10g-christmas-play.html
 
 for _ in range(int(input())):
 	n, k = map(int, input().split())
