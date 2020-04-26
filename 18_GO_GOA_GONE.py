@@ -17,10 +17,3 @@ for i in range(1,len(li)):
 	if li[i] == 0:
 		ans += arr[i]
 print(ans)
-
-# 3 14 5 2 3 4 1 9
-# 4
-# 1 2
-# 2 3
-# 4 5
-# 7 8
