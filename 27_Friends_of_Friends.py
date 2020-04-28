@@ -1,4 +1,4 @@
-# Porblem Statement Link : https://www.spoj.com/problems/FACEFRND/
+# Problem Statement Link : https://www.spoj.com/problems/FACEFRND/
 
 friends_of_friends_list = set()
 n = int(input())
