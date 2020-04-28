@@ -1,7 +1,8 @@
 # Problem Statement Link : https://www.spoj.com/problems/CANDY3/
 
-# Run Time Error
-for _ in range(int(input())):
+t = int(input())
+for _ in range(t):
+	space = input()
 	n = int(input())
 	sum_ = 0
 	ans = "NO"
