@@ -7,3 +7,4 @@ for _ in range(int(input())):
 		n = n // 5
 		ans += n
 	print(ans)
+
